@@ -1,0 +1,6 @@
+{
+  "name": "DAVIRGA AI",
+  "description": "Premium Futuristic AI Suite: Edit and generate images, video, music, storyboards, and chat using modern AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
